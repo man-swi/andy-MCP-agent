@@ -1,0 +1,14 @@
+streamlit
+langchain
+langgraph
+langchain-core
+langchain-mistralai
+langchain-mcp-adapters
+mcp
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+python-dotenv
+beautifulsoup4
+pydantic
