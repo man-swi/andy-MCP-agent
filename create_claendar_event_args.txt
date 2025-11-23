@@ -1,0 +1,48 @@
+summary = 'interview',
+start_time = '2025-11-23T18:00:00+05:30'
+end_time ='2025-11-23T18:30:00+05:30',
+description = None,
+location = None,
+attendees = None,
+ --------------------------------- 
+
+summary = 'Trip Planning',
+start_time = '2025-02-14T09:00:00+05:30'
+end_time ='2025-02-14T09:30:00+05:30',
+description = None,
+location = 'Delhi',
+attendees = [{'email': 'kamblemanswi8@gmail.com'}],
+ --------------------------------- 
+
+summary = 'Trip Planning',
+start_time = '2026-02-14T09:00:00+05:30'
+end_time ='2026-02-14T09:30:00+05:30',
+description = None,
+location = 'Delhi',
+attendees = [{'email': 'kamblemanswi8@gmail.com'}],
+ --------------------------------- 
+
+summary = 'Investor Meeting',
+start_time = '2025-11-25T10:00:00+05:30'
+end_time ='2025-11-25T10:30:00+05:30',
+description = None,
+location = 'Delhi',
+attendees = None,
+ --------------------------------- 
+
+summary = 'Policy Negotiation Meeting',
+start_time = '2025-12-01T13:00:00+05:30'
+end_time ='2025-12-01T13:20:00+05:30',
+description = None,
+location = 'Delhi',
+attendees = [{'email': 'ceo@company.com'}, {'email': 'cto@company.com'}, {'email': 'adtya882@gmail.com'}],
+ --------------------------------- 
+
+summary = 'Policy Negotiation Meeting',
+start_time = '2025-12-01T13:00:00+05:30'
+end_time ='2025-12-01T13:20:00+05:30',
+description = None,
+location = 'Delhi',
+attendees = [{'email': 'ceo@company.com'}, {'email': 'cto@company.com'}, {'email': 'adtya882@gmail.com'}, {'email': 'kamblemanswi8@gmail.com'}],
+ --------------------------------- 
+

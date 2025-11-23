@@ -1,0 +1,40 @@
+to = 'kamblemanaswi8@gmail.com',
+subject = 'hello'
+content_msg = 'hello'
+ --------------------------------- 
+
+to = 'kamblemanaswi8@gmail.com',
+subject = 'hello'
+content_msg = 'hello'
+ --------------------------------- 
+
+to = 'manaswi22211013@viit.ac.in',
+subject = 'Congratulations! you have been shortlisted for interview at Paracloud.'
+content_msg = 'Congratulations! you have been shortlisted for interview at Paracloud. And your interview is on tomorrow 1 PM.'
+ --------------------------------- 
+
+to = 'kamblemanswi8@gmail.com',
+subject = 'Congratulations! you have been shortlisted for interview at Paracloud.'
+content_msg = 'Congratulations! you have been shortlisted for interview at Paracloud. And your interview is on tomorrow 1 PM.'
+ --------------------------------- 
+
+to = 'kamblemanswi8@gmail.com',
+subject = 'Inquiry About Next Trip Planning'
+content_msg = 'Hi Mansi,\n\nI hope this message finds you well. I am writing to inquire about the next trip you want to plan for our upcoming meeting. Please let me know the details so we can discuss and prepare accordingly.\n\nLooking forward to your response.\n\nBest regards,\nAditya\n\n'
+ --------------------------------- 
+
+to = 'ceo@company.com',
+subject = 'Invitation: Policy Negotiation Meeting on December 1, 2025'
+content_msg = 'Dear CEO,\n\nI hope this email finds you well.\n\nYou are invited to attend the Policy Negotiation Meeting scheduled on December 1, 2025. Here are the details:\n\nDate: December 1, 2025\nTime: 1:00 PM - 1:20 PM IST\nLocation: Delhi\n\nPlease confirm your attendance at your earliest convenience.\n\nBest regards,\nAditya\n'
+ --------------------------------- 
+
+to = 'cto@company.com',
+subject = 'Invitation: Policy Negotiation Meeting on December 1, 2025'
+content_msg = 'Dear CTO,\n\nI hope this email finds you well.\n\nYou are invited to attend the Policy Negotiation Meeting scheduled on December 1, 2025. Here are the details:\n\nDate: December 1, 2025\nTime: 1:00 PM - 1:20 PM IST\nLocation: Delhi\n\nPlease confirm your attendance at your earliest convenience.\n\nBest regards,\nAditya\n'
+ --------------------------------- 
+
+to = 'kamblemanswi8@gmail.com',
+subject = 'Invitation: Policy Negotiation Meeting on December 1, 2025'
+content_msg = 'Dear Mansi,\n\nI hope this email finds you well.\n\nYou are invited to attend the Policy Negotiation Meeting scheduled on December 1, 2025. Here are the details:\n\nDate: December 1, 2025\nTime: 1:00 PM - 1:20 PM IST\nLocation: Delhi\n\nPlease confirm your attendance at your earliest convenience.\n\nBest regards,\nAditya\n'
+ --------------------------------- 
+
